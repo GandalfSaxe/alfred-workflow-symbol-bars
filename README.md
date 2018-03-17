@@ -10,6 +10,3 @@ I sometimes find i various programming languages (or just LaTeX) that I want to
 =bar N
 %bar N
 ```
-
-Example usage:
-https://i.imgur.com/IRjLniy.gifv
